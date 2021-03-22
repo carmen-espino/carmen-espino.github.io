@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Prueba</title>
+</head>
+<body>
+
+    <header class="header">
+        <p class="header__logo">LOGO</p>
+    </header>
+    <main class="main">
+        <section class="main__section-hi">
+            <div class="main__hello-world">
+                <h1>HELLO, WORLD</h1>
+            </div>
+            <div class="main__how-r-u">
+                <p>Hola, ¿qué tal?</p>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <p class="footer__bla">Blabla</p>
+    </footer>
+    
+</body>
+</html>
